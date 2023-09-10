@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Both tokens contract addresses
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+token A = 0xDF7b60755f0bdc1Ebb49bf8105ad389d04b90e7E
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+token B = 0xD40Bf8b78dc82Af1d492E5aa08A52687C34883E1
 ```
